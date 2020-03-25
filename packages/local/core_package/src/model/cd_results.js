@@ -72,12 +72,28 @@ Ext.define('Core.model.cd_results', {
             allowNull: true 
         },
         /**
+         * Ответ
+         */
+        { 
+            name: 'f_answer', 
+            type: 'int', 
+            allowNull: true 
+        },
+        /**
          * Предупреждение
          */
         { 
             name: 'b_warning', 
             type: 'boolean',
             defaultValue: null 
+        },
+        /**
+         * Вопрос
+         */
+        { 
+            name: 'f_question', 
+            type: 'int', 
+            allowNull: true 
         },
         /**
          * JSON данные

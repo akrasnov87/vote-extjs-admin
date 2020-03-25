@@ -129,12 +129,30 @@ Ext.define('Core.view.cd_results.cd_results-detailview', {
                     }],
                     name: 'c_notice'
                 },
+                                /*** Ответ*/
+                {      
+                    xtype: 'numberfield',
+                    fieldLabel: 'Ответ',
+                    plugins: [{
+                        ptype: 'clearable'
+                    }],
+                    name: 'f_answer'
+                },
                                 /*** Предупреждение*/
                 {      
                     xtype: 'checkboxfield',
                     fieldLabel: 'Предупреждение',
                     uncheckedValue: 'off',
                     name: 'b_warning'
+                },
+                                /*** Вопрос*/
+                {      
+                    xtype: 'numberfield',
+                    fieldLabel: 'Вопрос',
+                    plugins: [{
+                        ptype: 'clearable'
+                    }],
+                    name: 'f_question'
                 },
                                 /*** JSON данные*/
                 {      

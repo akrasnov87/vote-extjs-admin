@@ -41,6 +41,15 @@ Ext.define('Core.view.cs_question.cs_question-listview', {
                     type: 'int'
                 }
             },
+            /*** Заголовок*/
+            {      
+                xtype: 'gridcolumn',
+                dataIndex: 'c_title',
+                text: 'Заголовок',
+                filter: {
+                    type: 'string'
+                }
+            },
             /*** Текст*/
             {      
                 xtype: 'gridcolumn',

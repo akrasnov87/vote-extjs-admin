@@ -167,6 +167,15 @@ Ext.define('Core.view.cs_result_types.cd_results___cs_result_types-collection', 
                     type: 'string'
                 }
             },
+            /*** Ответ*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'f_answer',
+                text: 'Ответ',
+                filter: {
+                    type: 'int'
+                }
+            },
             /*** Предупреждение*/
             {      
                 xtype: 'booleancolumn',
@@ -174,6 +183,15 @@ Ext.define('Core.view.cs_result_types.cd_results___cs_result_types-collection', 
                 text: 'Предупреждение',
                 filter: {
                     type: 'bool'
+                }
+            },
+            /*** Вопрос*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'f_question',
+                text: 'Вопрос',
+                filter: {
+                    type: 'int'
                 }
             },
             /*** JSON данные*/

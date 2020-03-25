@@ -17,12 +17,20 @@ Ext.define('Core.model.cs_question', {
             defaultValue: null 
         },
         /**
+         * Заголовок
+         */
+        { 
+            name: 'c_title', 
+            type: 'string',
+            defaultValue: null 
+        },
+        /**
          * Текст
          */
         { 
             name: 'c_text', 
-            type: 'string', 
-            allowNull: true 
+            type: 'string',
+            defaultValue: null 
         },
         /**
          * Отключить
@@ -51,6 +59,14 @@ Ext.define('Core.model.cs_question', {
     ],
     validators: {
         id: [{
+            type: 'presence'
+        }],  
+    
+        c_title: [{
+            type: 'presence'
+        }],  
+    
+        c_text: [{
             type: 'presence'
         }],  
     

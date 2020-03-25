@@ -69,13 +69,16 @@ Ext.define('Core.view.cs_question.cs_question-detailview', {
                     submitValue: true,
                     name: 'id'
                 },
+                                /*** Заголовок*/
+                {      
+                    xtype: 'textareafield',
+                    fieldLabel: 'Заголовок',
+                    name: 'c_title'
+                },
                                 /*** Текст*/
                 {      
                     xtype: 'textareafield',
                     fieldLabel: 'Текст',
-                    plugins: [{
-                        ptype: 'clearable'
-                    }],
                     name: 'c_text'
                 },
                                 /*** Отключить*/

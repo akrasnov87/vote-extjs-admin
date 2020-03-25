@@ -167,6 +167,15 @@ Ext.define('Core.view.pd_users.cd_results___pd_users-collection', {
                     type: 'string'
                 }
             },
+            /*** Ответ*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'f_answer',
+                text: 'Ответ',
+                filter: {
+                    type: 'int'
+                }
+            },
             /*** Предупреждение*/
             {      
                 xtype: 'booleancolumn',
@@ -174,6 +183,15 @@ Ext.define('Core.view.pd_users.cd_results___pd_users-collection', {
                 text: 'Предупреждение',
                 filter: {
                     type: 'bool'
+                }
+            },
+            /*** Вопрос*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'f_question',
+                text: 'Вопрос',
+                filter: {
+                    type: 'int'
                 }
             },
             /*** JSON данные*/
