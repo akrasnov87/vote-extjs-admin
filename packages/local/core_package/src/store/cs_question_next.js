@@ -6,7 +6,7 @@ Ext.define('Core.store.cs_question_next', {
     extend: 'Ext.data.Store',
     alias: 'store.cs_question_next',
     autoLoad: false,
-    storeId: 'cs_question',
+    storeId: 'cs_question_next',
     model: 'Core.model.cs_question',
     remoteSort: true,
     remoteGroup: true,
