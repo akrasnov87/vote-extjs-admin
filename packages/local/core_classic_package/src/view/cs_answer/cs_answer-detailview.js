@@ -91,7 +91,7 @@ Ext.define('Core.view.cs_answer.cs_answer-detailview', {
                         ptype: 'clearable'
                     }],
                     store: {
-                        type: 'cs_question'
+                        type: 'cs_question_next'
                     },
                     displayField: 'c_title',
                     valueField: 'id',

@@ -89,7 +89,7 @@ Ext.define('Core.view.cs_answer.cs_answer-listview', {
                         minWidth: 400
                     },
                     store: {
-                        type: 'cs_question'
+                        type: 'cs_question_next'
                     },
                     displayField: 'c_title',
                     valueField: 'id',
