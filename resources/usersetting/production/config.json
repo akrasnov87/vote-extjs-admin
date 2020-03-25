@@ -1,4 +1,4 @@
 {
-    "remote_service_url": "http://dev.it-serv.ru",
-    "virtual_dir_path": "/mobnius-core"
+    "remote_service_url": "http://kes.it-serv.ru",
+    "virtual_dir_path": "/vote/dev"
 }
