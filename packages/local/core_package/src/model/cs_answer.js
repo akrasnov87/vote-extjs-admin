@@ -41,6 +41,22 @@ Ext.define('Core.model.cs_answer', {
             allowNull: true 
         },
         /**
+         * Действие
+         */
+        { 
+            name: 'c_action', 
+            type: 'string', 
+            allowNull: true 
+        },
+        /**
+         * Сортировка
+         */
+        { 
+            name: 'n_order', 
+            type: 'int',
+            defaultValue: null 
+        },
+        /**
          * Отключить
          */
         { 
@@ -71,6 +87,10 @@ Ext.define('Core.model.cs_answer', {
         }],  
     
         f_question: [{
+            type: 'presence'
+        }],  
+    
+        n_order: [{
             type: 'presence'
         }],  
     

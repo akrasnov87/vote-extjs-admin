@@ -98,6 +98,21 @@ Ext.define('Core.view.cs_answer.cs_answer-detailview', {
                     queryMode: 'remote',
                     pageSize: 25
                 },
+                                /*** Действие*/
+                {      
+                    xtype: 'textareafield',
+                    fieldLabel: 'Действие',
+                    plugins: [{
+                        ptype: 'clearable'
+                    }],
+                    name: 'c_action'
+                },
+                                /*** Сортировка*/
+                {      
+                    xtype: 'numberfield',
+                    fieldLabel: 'Сортировка',
+                    name: 'n_order'
+                },
                                 /*** Отключить*/
                 {      
                     xtype: 'checkboxfield',

@@ -107,6 +107,24 @@ Ext.define('Core.view.cs_question.cs_answer___cs_question-collection', {
                     type: 'string'
                 }
             },
+            /*** Действие*/
+            {      
+                xtype: 'gridcolumn',
+                dataIndex: 'c_action',
+                text: 'Действие',
+                filter: {
+                    type: 'string'
+                }
+            },
+            /*** Сортировка*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'n_order',
+                text: 'Сортировка',
+                filter: {
+                    type: 'int'
+                }
+            },
             /*** Отключить*/
             {      
                 xtype: 'booleancolumn',

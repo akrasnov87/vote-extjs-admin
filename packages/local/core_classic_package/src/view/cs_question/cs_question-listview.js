@@ -50,6 +50,15 @@ Ext.define('Core.view.cs_question.cs_question-listview', {
                     type: 'string'
                 }
             },
+            /*** Описание*/
+            {      
+                xtype: 'gridcolumn',
+                dataIndex: 'c_description',
+                text: 'Описание',
+                filter: {
+                    type: 'string'
+                }
+            },
             /*** Текст*/
             {      
                 xtype: 'gridcolumn',
@@ -57,6 +66,15 @@ Ext.define('Core.view.cs_question.cs_question-listview', {
                 text: 'Текст',
                 filter: {
                     type: 'string'
+                }
+            },
+            /*** Сортировка*/
+            {      
+                xtype: 'numbercolumn',
+                dataIndex: 'n_order',
+                text: 'Сортировка',
+                filter: {
+                    type: 'int'
                 }
             },
             /*** Отключить*/

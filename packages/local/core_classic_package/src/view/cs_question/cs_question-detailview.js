@@ -75,11 +75,23 @@ Ext.define('Core.view.cs_question.cs_question-detailview', {
                     fieldLabel: 'Заголовок',
                     name: 'c_title'
                 },
+                                /*** Описание*/
+                {      
+                    xtype: 'textareafield',
+                    fieldLabel: 'Описание',
+                    name: 'c_description'
+                },
                                 /*** Текст*/
                 {      
                     xtype: 'textareafield',
                     fieldLabel: 'Текст',
                     name: 'c_text'
+                },
+                                /*** Сортировка*/
+                {      
+                    xtype: 'numberfield',
+                    fieldLabel: 'Сортировка',
+                    name: 'n_order'
                 },
                                 /*** Отключить*/
                 {      

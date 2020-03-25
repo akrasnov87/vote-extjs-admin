@@ -25,11 +25,27 @@ Ext.define('Core.model.cs_question', {
             defaultValue: null 
         },
         /**
+         * Описание
+         */
+        { 
+            name: 'c_description', 
+            type: 'string',
+            defaultValue: null 
+        },
+        /**
          * Текст
          */
         { 
             name: 'c_text', 
             type: 'string',
+            defaultValue: null 
+        },
+        /**
+         * Сортировка
+         */
+        { 
+            name: 'n_order', 
+            type: 'int',
             defaultValue: null 
         },
         /**
@@ -66,7 +82,15 @@ Ext.define('Core.model.cs_question', {
             type: 'presence'
         }],  
     
+        c_description: [{
+            type: 'presence'
+        }],  
+    
         c_text: [{
+            type: 'presence'
+        }],  
+    
+        n_order: [{
             type: 'presence'
         }],  
     
