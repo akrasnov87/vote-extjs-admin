@@ -1,0 +1,15 @@
+{
+    "name": "refresh",
+    "version": "1.0.0",
+    "description": "Вспомогательный модуль для обновления",
+    "main": "refresh-schema.js",
+    "dependencies": {
+        "mobnius-extjs-view-generate": "git://git.appcode.pw/mobnius/extjs-view-generate.git"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}

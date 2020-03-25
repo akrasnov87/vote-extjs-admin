@@ -1,0 +1,18 @@
+[submodule "packages/remote/developer_package"]
+	path = packages/remote/developer_package
+	url = git://git.appcode.pw/extjs/developer_package.git
+[submodule "packages/remote/iserv_package"]
+	path = packages/remote/iserv_package
+	url = git://git.appcode.pw/extjs/iserv_package.git
+[submodule "packages/remote/ui_package"]
+	path = packages/remote/ui_package
+	url = git://git.appcode.pw/extjs/ui_package.git
+[submodule "packages/remote/ui_classic_package"]
+	path = packages/remote/ui_classic_package
+	url = git://git.appcode.pw/extjs/ui_classic_package.git
+[submodule "packages/remote/ux_classic_package"]
+	path = packages/remote/ux_classic_package
+	url = git://git.appcode.pw/extjs/ux_classic_package.git
+[submodule "packages/remote/filer_package"]
+	path = packages/remote/filer_package
+	url = git://git.appcode.pw/extjs/filer_package.git

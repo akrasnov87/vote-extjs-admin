@@ -1,0 +1,20 @@
+/// readme: использовать формат = параметр: описание;
+{
+    "APP_ID": 11, /// APP_ID: идентификатор приложения;
+    "debug": true, /// debug: режим работы;
+    "remote_namespace": "PN", /// remote_namespace: пространство имен для удаленных объектов;
+    "remote_service_url": "http://localhost:3000", /// remote_service_url: адрес сервиса удаленных данных;
+    "virtual_dir_path": "", /// virtual_dir_path: путь к виртуальному каталогу;
+    "auth": true, /// auth: параметр для включения авторизации;
+    "theme": "dev", /// theme: наименование родительской настройки (связанной);
+    "audit_url": "/audit/scripts.js", /// audit_url: путь к скрипту для обработки действий пользователя;
+    "audit": true, /// audit: включить аудит;
+    "error_handler_script": "", /// error_handler_script: путь к скрипту для обработки ошибок;
+    "config_store": "Core.store.cd_settings", /// config_store: хранилище для настроек;
+    "socket": true, /// socket: требуется ли поднимать socket;
+    "view_cache": true, /// view_cache: кэширование представлений;
+    "file_manager_url": "/file-manager", /// file_manager_url: адрес файлового менеджера;
+    "default_remote_folder": "/tpl", /// default_remote_folder: папка для генерации шаблонов;
+    "web_url": "http://localhost:1841", /// web_url: адрес сайта;
+    "authorization_header": "rpc-authorization" /// authorization_header: заголовок для авторизации;
+}

@@ -1,0 +1,2359 @@
+[{
+        "value": "x-fa fa-500px"
+    },
+    {
+        "value": "x-fa fa-address-book"
+    },
+    {
+        "value": "x-fa fa-address-book-o"
+    },
+    {
+        "value": "x-fa fa-address-card"
+    },
+    {
+        "value": "x-fa fa-address-card-o"
+    },
+    {
+        "value": "x-fa fa-adjust"
+    },
+    {
+        "value": "x-fa fa-adn"
+    },
+    {
+        "value": "x-fa fa-align-center"
+    },
+    {
+        "value": "x-fa fa-align-justify"
+    },
+    {
+        "value": "x-fa fa-align-left"
+    },
+    {
+        "value": "x-fa fa-align-right"
+    },
+    {
+        "value": "x-fa fa-amazon"
+    },
+    {
+        "value": "x-fa fa-ambulance"
+    },
+    {
+        "value": "x-fa fa-american-sign-language-interpreting"
+    },
+    {
+        "value": "x-fa fa-anchor"
+    },
+    {
+        "value": "x-fa fa-android"
+    },
+    {
+        "value": "x-fa fa-angellist"
+    },
+    {
+        "value": "x-fa fa-angle-double-down"
+    },
+    {
+        "value": "x-fa fa-angle-double-left"
+    },
+    {
+        "value": "x-fa fa-angle-double-right"
+    },
+    {
+        "value": "x-fa fa-angle-double-up"
+    },
+    {
+        "value": "x-fa fa-angle-down"
+    },
+    {
+        "value": "x-fa fa-angle-left"
+    },
+    {
+        "value": "x-fa fa-angle-right"
+    },
+    {
+        "value": "x-fa fa-angle-up"
+    },
+    {
+        "value": "x-fa fa-apple"
+    },
+    {
+        "value": "x-fa fa-archive"
+    },
+    {
+        "value": "x-fa fa-area-chart"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-down"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-left"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-o-down"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-o-left"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-o-right"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-o-up"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-right"
+    },
+    {
+        "value": "x-fa fa-arrow-circle-up"
+    },
+    {
+        "value": "x-fa fa-arrow-down"
+    },
+    {
+        "value": "x-fa fa-arrow-left"
+    },
+    {
+        "value": "x-fa fa-arrow-right"
+    },
+    {
+        "value": "x-fa fa-arrow-up"
+    },
+    {
+        "value": "x-fa fa-arrows"
+    },
+    {
+        "value": "x-fa fa-arrows-alt"
+    },
+    {
+        "value": "x-fa fa-arrows-h"
+    },
+    {
+        "value": "x-fa fa-arrows-v"
+    },
+    {
+        "value": "x-fa fa-asl-interpreting"
+    },
+    {
+        "value": "x-fa fa-assistive-listening-systems"
+    },
+    {
+        "value": "x-fa fa-asterisk"
+    },
+    {
+        "value": "x-fa fa-at"
+    },
+    {
+        "value": "x-fa fa-audio-description"
+    },
+    {
+        "value": "x-fa fa-automobile"
+    },
+    {
+        "value": "x-fa fa-backward"
+    },
+    {
+        "value": "x-fa fa-balance-scale"
+    },
+    {
+        "value": "x-fa fa-ban"
+    },
+    {
+        "value": "x-fa fa-bandcamp"
+    },
+    {
+        "value": "x-fa fa-bank"
+    },
+    {
+        "value": "x-fa fa-bar-chart"
+    },
+    {
+        "value": "x-fa fa-bar-chart-o"
+    },
+    {
+        "value": "x-fa fa-barcode"
+    },
+    {
+        "value": "x-fa fa-bars"
+    },
+    {
+        "value": "x-fa fa-bath"
+    },
+    {
+        "value": "x-fa fa-bathtub"
+    },
+    {
+        "value": "x-fa fa-battery"
+    },
+    {
+        "value": "x-fa fa-battery-0"
+    },
+    {
+        "value": "x-fa fa-battery-1"
+    },
+    {
+        "value": "x-fa fa-battery-2"
+    },
+    {
+        "value": "x-fa fa-battery-3"
+    },
+    {
+        "value": "x-fa fa-battery-4"
+    },
+    {
+        "value": "x-fa fa-battery-empty"
+    },
+    {
+        "value": "x-fa fa-battery-full"
+    },
+    {
+        "value": "x-fa fa-battery-half"
+    },
+    {
+        "value": "x-fa fa-battery-quarter"
+    },
+    {
+        "value": "x-fa fa-battery-three-quarters"
+    },
+    {
+        "value": "x-fa fa-bed"
+    },
+    {
+        "value": "x-fa fa-beer"
+    },
+    {
+        "value": "x-fa fa-behance"
+    },
+    {
+        "value": "x-fa fa-behance-square"
+    },
+    {
+        "value": "x-fa fa-bell"
+    },
+    {
+        "value": "x-fa fa-bell-o"
+    },
+    {
+        "value": "x-fa fa-bell-slash"
+    },
+    {
+        "value": "x-fa fa-bell-slash-o"
+    },
+    {
+        "value": "x-fa fa-bicycle"
+    },
+    {
+        "value": "x-fa fa-binoculars"
+    },
+    {
+        "value": "x-fa fa-birthday-cake"
+    },
+    {
+        "value": "x-fa fa-bitbucket"
+    },
+    {
+        "value": "x-fa fa-bitbucket-square"
+    },
+    {
+        "value": "x-fa fa-bitcoin"
+    },
+    {
+        "value": "x-fa fa-black-tie"
+    },
+    {
+        "value": "x-fa fa-blind"
+    },
+    {
+        "value": "x-fa fa-bluetooth"
+    },
+    {
+        "value": "x-fa fa-bluetooth-b"
+    },
+    {
+        "value": "x-fa fa-bold"
+    },
+    {
+        "value": "x-fa fa-bolt"
+    },
+    {
+        "value": "x-fa fa-bomb"
+    },
+    {
+        "value": "x-fa fa-book"
+    },
+    {
+        "value": "x-fa fa-bookmark"
+    },
+    {
+        "value": "x-fa fa-bookmark-o"
+    },
+    {
+        "value": "x-fa fa-braille"
+    },
+    {
+        "value": "x-fa fa-briefcase"
+    },
+    {
+        "value": "x-fa fa-btc"
+    },
+    {
+        "value": "x-fa fa-bug"
+    },
+    {
+        "value": "x-fa fa-building"
+    },
+    {
+        "value": "x-fa fa-building-o"
+    },
+    {
+        "value": "x-fa fa-bullhorn"
+    },
+    {
+        "value": "x-fa fa-bullseye"
+    },
+    {
+        "value": "x-fa fa-bus"
+    },
+    {
+        "value": "x-fa fa-buysellads"
+    },
+    {
+        "value": "x-fa fa-cab"
+    },
+    {
+        "value": "x-fa fa-calculator"
+    },
+    {
+        "value": "x-fa fa-calendar"
+    },
+    {
+        "value": "x-fa fa-calendar-check-o"
+    },
+    {
+        "value": "x-fa fa-calendar-minus-o"
+    },
+    {
+        "value": "x-fa fa-calendar-o"
+    },
+    {
+        "value": "x-fa fa-calendar-plus-o"
+    },
+    {
+        "value": "x-fa fa-calendar-times-o"
+    },
+    {
+        "value": "x-fa fa-camera"
+    },
+    {
+        "value": "x-fa fa-camera-retro"
+    },
+    {
+        "value": "x-fa fa-car"
+    },
+    {
+        "value": "x-fa fa-caret-down"
+    },
+    {
+        "value": "x-fa fa-caret-left"
+    },
+    {
+        "value": "x-fa fa-caret-right"
+    },
+    {
+        "value": "x-fa fa-caret-square-o-down"
+    },
+    {
+        "value": "x-fa fa-caret-square-o-left"
+    },
+    {
+        "value": "x-fa fa-caret-square-o-right"
+    },
+    {
+        "value": "x-fa fa-caret-square-o-up"
+    },
+    {
+        "value": "x-fa fa-caret-up"
+    },
+    {
+        "value": "x-fa fa-cart-arrow-down"
+    },
+    {
+        "value": "x-fa fa-cart-plus"
+    },
+    {
+        "value": "x-fa fa-cc"
+    },
+    {
+        "value": "x-fa fa-cc-amex"
+    },
+    {
+        "value": "x-fa fa-cc-diners-club"
+    },
+    {
+        "value": "x-fa fa-cc-discover"
+    },
+    {
+        "value": "x-fa fa-cc-jcb"
+    },
+    {
+        "value": "x-fa fa-cc-mastercard"
+    },
+    {
+        "value": "x-fa fa-cc-paypal"
+    },
+    {
+        "value": "x-fa fa-cc-stripe"
+    },
+    {
+        "value": "x-fa fa-cc-visa"
+    },
+    {
+        "value": "x-fa fa-certificate"
+    },
+    {
+        "value": "x-fa fa-chain"
+    },
+    {
+        "value": "x-fa fa-chain-broken"
+    },
+    {
+        "value": "x-fa fa-check"
+    },
+    {
+        "value": "x-fa fa-check-circle"
+    },
+    {
+        "value": "x-fa fa-check-circle-o"
+    },
+    {
+        "value": "x-fa fa-check-square"
+    },
+    {
+        "value": "x-fa fa-check-square-o"
+    },
+    {
+        "value": "x-fa fa-chevron-circle-down"
+    },
+    {
+        "value": "x-fa fa-chevron-circle-left"
+    },
+    {
+        "value": "x-fa fa-chevron-circle-right"
+    },
+    {
+        "value": "x-fa fa-chevron-circle-up"
+    },
+    {
+        "value": "x-fa fa-chevron-down"
+    },
+    {
+        "value": "x-fa fa-chevron-left"
+    },
+    {
+        "value": "x-fa fa-chevron-right"
+    },
+    {
+        "value": "x-fa fa-chevron-up"
+    },
+    {
+        "value": "x-fa fa-child"
+    },
+    {
+        "value": "x-fa fa-chrome"
+    },
+    {
+        "value": "x-fa fa-circle"
+    },
+    {
+        "value": "x-fa fa-circle-o"
+    },
+    {
+        "value": "x-fa fa-circle-o-notch"
+    },
+    {
+        "value": "x-fa fa-circle-thin"
+    },
+    {
+        "value": "x-fa fa-clipboard"
+    },
+    {
+        "value": "x-fa fa-clock-o"
+    },
+    {
+        "value": "x-fa fa-clone"
+    },
+    {
+        "value": "x-fa fa-close"
+    },
+    {
+        "value": "x-fa fa-cloud"
+    },
+    {
+        "value": "x-fa fa-cloud-download"
+    },
+    {
+        "value": "x-fa fa-cloud-upload"
+    },
+    {
+        "value": "x-fa fa-cny"
+    },
+    {
+        "value": "x-fa fa-code"
+    },
+    {
+        "value": "x-fa fa-code-fork"
+    },
+    {
+        "value": "x-fa fa-codepen"
+    },
+    {
+        "value": "x-fa fa-codiepie"
+    },
+    {
+        "value": "x-fa fa-coffee"
+    },
+    {
+        "value": "x-fa fa-cog"
+    },
+    {
+        "value": "x-fa fa-cogs"
+    },
+    {
+        "value": "x-fa fa-columns"
+    },
+    {
+        "value": "x-fa fa-comment"
+    },
+    {
+        "value": "x-fa fa-comment-o"
+    },
+    {
+        "value": "x-fa fa-commenting"
+    },
+    {
+        "value": "x-fa fa-commenting-o"
+    },
+    {
+        "value": "x-fa fa-comments"
+    },
+    {
+        "value": "x-fa fa-comments-o"
+    },
+    {
+        "value": "x-fa fa-compass"
+    },
+    {
+        "value": "x-fa fa-compress"
+    },
+    {
+        "value": "x-fa fa-connectdevelop"
+    },
+    {
+        "value": "x-fa fa-contao"
+    },
+    {
+        "value": "x-fa fa-copy"
+    },
+    {
+        "value": "x-fa fa-copyright"
+    },
+    {
+        "value": "x-fa fa-creative-commons"
+    },
+    {
+        "value": "x-fa fa-credit-card"
+    },
+    {
+        "value": "x-fa fa-credit-card-alt"
+    },
+    {
+        "value": "x-fa fa-crop"
+    },
+    {
+        "value": "x-fa fa-crosshairs"
+    },
+    {
+        "value": "x-fa fa-css3"
+    },
+    {
+        "value": "x-fa fa-cube"
+    },
+    {
+        "value": "x-fa fa-cubes"
+    },
+    {
+        "value": "x-fa fa-cut"
+    },
+    {
+        "value": "x-fa fa-cutlery"
+    },
+    {
+        "value": "x-fa fa-dashboard"
+    },
+    {
+        "value": "x-fa fa-dashcube"
+    },
+    {
+        "value": "x-fa fa-database"
+    },
+    {
+        "value": "x-fa fa-deaf"
+    },
+    {
+        "value": "x-fa fa-deafness"
+    },
+    {
+        "value": "x-fa fa-dedent"
+    },
+    {
+        "value": "x-fa fa-delicious"
+    },
+    {
+        "value": "x-fa fa-desktop"
+    },
+    {
+        "value": "x-fa fa-deviantart"
+    },
+    {
+        "value": "x-fa fa-diamond"
+    },
+    {
+        "value": "x-fa fa-digg"
+    },
+    {
+        "value": "x-fa fa-dollar"
+    },
+    {
+        "value": "x-fa fa-dot-circle-o"
+    },
+    {
+        "value": "x-fa fa-download"
+    },
+    {
+        "value": "x-fa fa-dribbble"
+    },
+    {
+        "value": "x-fa fa-drivers-license"
+    },
+    {
+        "value": "x-fa fa-drivers-license-o"
+    },
+    {
+        "value": "x-fa fa-dropbox"
+    },
+    {
+        "value": "x-fa fa-drupal"
+    },
+    {
+        "value": "x-fa fa-edge"
+    },
+    {
+        "value": "x-fa fa-edit"
+    },
+    {
+        "value": "x-fa fa-eercast"
+    },
+    {
+        "value": "x-fa fa-eject"
+    },
+    {
+        "value": "x-fa fa-ellipsis-h"
+    },
+    {
+        "value": "x-fa fa-ellipsis-v"
+    },
+    {
+        "value": "x-fa fa-empire"
+    },
+    {
+        "value": "x-fa fa-envelope"
+    },
+    {
+        "value": "x-fa fa-envelope-o"
+    },
+    {
+        "value": "x-fa fa-envelope-open"
+    },
+    {
+        "value": "x-fa fa-envelope-open-o"
+    },
+    {
+        "value": "x-fa fa-envelope-square"
+    },
+    {
+        "value": "x-fa fa-envira"
+    },
+    {
+        "value": "x-fa fa-eraser"
+    },
+    {
+        "value": "x-fa fa-etsy"
+    },
+    {
+        "value": "x-fa fa-eur"
+    },
+    {
+        "value": "x-fa fa-euro"
+    },
+    {
+        "value": "x-fa fa-exchange"
+    },
+    {
+        "value": "x-fa fa-exclamation"
+    },
+    {
+        "value": "x-fa fa-exclamation-circle"
+    },
+    {
+        "value": "x-fa fa-exclamation-triangle"
+    },
+    {
+        "value": "x-fa fa-expand"
+    },
+    {
+        "value": "x-fa fa-expeditedssl"
+    },
+    {
+        "value": "x-fa fa-external-link"
+    },
+    {
+        "value": "x-fa fa-external-link-square"
+    },
+    {
+        "value": "x-fa fa-eye"
+    },
+    {
+        "value": "x-fa fa-eye-slash"
+    },
+    {
+        "value": "x-fa fa-eyedropper"
+    },
+    {
+        "value": "x-fa fa-fa"
+    },
+    {
+        "value": "x-fa fa-facebook"
+    },
+    {
+        "value": "x-fa fa-facebook-f"
+    },
+    {
+        "value": "x-fa fa-facebook-official"
+    },
+    {
+        "value": "x-fa fa-facebook-square"
+    },
+    {
+        "value": "x-fa fa-fast-backward"
+    },
+    {
+        "value": "x-fa fa-fast-forward"
+    },
+    {
+        "value": "x-fa fa-fax"
+    },
+    {
+        "value": "x-fa fa-feed"
+    },
+    {
+        "value": "x-fa fa-female"
+    },
+    {
+        "value": "x-fa fa-fighter-jet"
+    },
+    {
+        "value": "x-fa fa-file"
+    },
+    {
+        "value": "x-fa fa-file-archive-o"
+    },
+    {
+        "value": "x-fa fa-file-audio-o"
+    },
+    {
+        "value": "x-fa fa-file-code-o"
+    },
+    {
+        "value": "x-fa fa-file-excel-o"
+    },
+    {
+        "value": "x-fa fa-file-image-o"
+    },
+    {
+        "value": "x-fa fa-file-movie-o"
+    },
+    {
+        "value": "x-fa fa-file-o"
+    },
+    {
+        "value": "x-fa fa-file-pdf-o"
+    },
+    {
+        "value": "x-fa fa-file-photo-o"
+    },
+    {
+        "value": "x-fa fa-file-picture-o"
+    },
+    {
+        "value": "x-fa fa-file-powerpoint-o"
+    },
+    {
+        "value": "x-fa fa-file-sound-o"
+    },
+    {
+        "value": "x-fa fa-file-text"
+    },
+    {
+        "value": "x-fa fa-file-text-o"
+    },
+    {
+        "value": "x-fa fa-file-video-o"
+    },
+    {
+        "value": "x-fa fa-file-word-o"
+    },
+    {
+        "value": "x-fa fa-file-zip-o"
+    },
+    {
+        "value": "x-fa fa-files-o"
+    },
+    {
+        "value": "x-fa fa-film"
+    },
+    {
+        "value": "x-fa fa-filter"
+    },
+    {
+        "value": "x-fa fa-fire"
+    },
+    {
+        "value": "x-fa fa-fire-extinguisher"
+    },
+    {
+        "value": "x-fa fa-firefox"
+    },
+    {
+        "value": "x-fa fa-first-order"
+    },
+    {
+        "value": "x-fa fa-flag"
+    },
+    {
+        "value": "x-fa fa-flag-checkered"
+    },
+    {
+        "value": "x-fa fa-flag-o"
+    },
+    {
+        "value": "x-fa fa-flash"
+    },
+    {
+        "value": "x-fa fa-flask"
+    },
+    {
+        "value": "x-fa fa-flickr"
+    },
+    {
+        "value": "x-fa fa-floppy-o"
+    },
+    {
+        "value": "x-fa fa-folder"
+    },
+    {
+        "value": "x-fa fa-folder-o"
+    },
+    {
+        "value": "x-fa fa-folder-open"
+    },
+    {
+        "value": "x-fa fa-folder-open-o"
+    },
+    {
+        "value": "x-fa fa-font"
+    },
+    {
+        "value": "x-fa fa-font-awesome"
+    },
+    {
+        "value": "x-fa fa-fonticons"
+    },
+    {
+        "value": "x-fa fa-fort-awesome"
+    },
+    {
+        "value": "x-fa fa-forumbee"
+    },
+    {
+        "value": "x-fa fa-forward"
+    },
+    {
+        "value": "x-fa fa-foursquare"
+    },
+    {
+        "value": "x-fa fa-free-code-camp"
+    },
+    {
+        "value": "x-fa fa-frown-o"
+    },
+    {
+        "value": "x-fa fa-futbol-o"
+    },
+    {
+        "value": "x-fa fa-gamepad"
+    },
+    {
+        "value": "x-fa fa-gavel"
+    },
+    {
+        "value": "x-fa fa-gbp"
+    },
+    {
+        "value": "x-fa fa-ge"
+    },
+    {
+        "value": "x-fa fa-gear"
+    },
+    {
+        "value": "x-fa fa-gears"
+    },
+    {
+        "value": "x-fa fa-genderless"
+    },
+    {
+        "value": "x-fa fa-get-pocket"
+    },
+    {
+        "value": "x-fa fa-gg"
+    },
+    {
+        "value": "x-fa fa-gg-circle"
+    },
+    {
+        "value": "x-fa fa-gift"
+    },
+    {
+        "value": "x-fa fa-git"
+    },
+    {
+        "value": "x-fa fa-git-square"
+    },
+    {
+        "value": "x-fa fa-github"
+    },
+    {
+        "value": "x-fa fa-github-alt"
+    },
+    {
+        "value": "x-fa fa-github-square"
+    },
+    {
+        "value": "x-fa fa-gitlab"
+    },
+    {
+        "value": "x-fa fa-gittip"
+    },
+    {
+        "value": "x-fa fa-glass"
+    },
+    {
+        "value": "x-fa fa-glide"
+    },
+    {
+        "value": "x-fa fa-glide-g"
+    },
+    {
+        "value": "x-fa fa-globe"
+    },
+    {
+        "value": "x-fa fa-google"
+    },
+    {
+        "value": "x-fa fa-google-plus"
+    },
+    {
+        "value": "x-fa fa-google-plus-circle"
+    },
+    {
+        "value": "x-fa fa-google-plus-official"
+    },
+    {
+        "value": "x-fa fa-google-plus-square"
+    },
+    {
+        "value": "x-fa fa-google-wallet"
+    },
+    {
+        "value": "x-fa fa-graduation-cap"
+    },
+    {
+        "value": "x-fa fa-gratipay"
+    },
+    {
+        "value": "x-fa fa-grav"
+    },
+    {
+        "value": "x-fa fa-group"
+    },
+    {
+        "value": "x-fa fa-h-square"
+    },
+    {
+        "value": "x-fa fa-hacker-news"
+    },
+    {
+        "value": "x-fa fa-hand-grab-o"
+    },
+    {
+        "value": "x-fa fa-hand-lizard-o"
+    },
+    {
+        "value": "x-fa fa-hand-o-down"
+    },
+    {
+        "value": "x-fa fa-hand-o-left"
+    },
+    {
+        "value": "x-fa fa-hand-o-right"
+    },
+    {
+        "value": "x-fa fa-hand-o-up"
+    },
+    {
+        "value": "x-fa fa-hand-paper-o"
+    },
+    {
+        "value": "x-fa fa-hand-peace-o"
+    },
+    {
+        "value": "x-fa fa-hand-pointer-o"
+    },
+    {
+        "value": "x-fa fa-hand-rock-o"
+    },
+    {
+        "value": "x-fa fa-hand-scissors-o"
+    },
+    {
+        "value": "x-fa fa-hand-spock-o"
+    },
+    {
+        "value": "x-fa fa-hand-stop-o"
+    },
+    {
+        "value": "x-fa fa-handshake-o"
+    },
+    {
+        "value": "x-fa fa-hard-of-hearing"
+    },
+    {
+        "value": "x-fa fa-hashtag"
+    },
+    {
+        "value": "x-fa fa-hdd-o"
+    },
+    {
+        "value": "x-fa fa-header"
+    },
+    {
+        "value": "x-fa fa-headphones"
+    },
+    {
+        "value": "x-fa fa-heart"
+    },
+    {
+        "value": "x-fa fa-heart-o"
+    },
+    {
+        "value": "x-fa fa-heartbeat"
+    },
+    {
+        "value": "x-fa fa-history"
+    },
+    {
+        "value": "x-fa fa-home"
+    },
+    {
+        "value": "x-fa fa-hospital-o"
+    },
+    {
+        "value": "x-fa fa-hotel"
+    },
+    {
+        "value": "x-fa fa-hourglass"
+    },
+    {
+        "value": "x-fa fa-hourglass-1"
+    },
+    {
+        "value": "x-fa fa-hourglass-2"
+    },
+    {
+        "value": "x-fa fa-hourglass-3"
+    },
+    {
+        "value": "x-fa fa-hourglass-end"
+    },
+    {
+        "value": "x-fa fa-hourglass-half"
+    },
+    {
+        "value": "x-fa fa-hourglass-o"
+    },
+    {
+        "value": "x-fa fa-hourglass-start"
+    },
+    {
+        "value": "x-fa fa-houzz"
+    },
+    {
+        "value": "x-fa fa-html5"
+    },
+    {
+        "value": "x-fa fa-i-cursor"
+    },
+    {
+        "value": "x-fa fa-id-badge"
+    },
+    {
+        "value": "x-fa fa-id-card"
+    },
+    {
+        "value": "x-fa fa-id-card-o"
+    },
+    {
+        "value": "x-fa fa-ils"
+    },
+    {
+        "value": "x-fa fa-image"
+    },
+    {
+        "value": "x-fa fa-imdb"
+    },
+    {
+        "value": "x-fa fa-inbox"
+    },
+    {
+        "value": "x-fa fa-indent"
+    },
+    {
+        "value": "x-fa fa-industry"
+    },
+    {
+        "value": "x-fa fa-info"
+    },
+    {
+        "value": "x-fa fa-info-circle"
+    },
+    {
+        "value": "x-fa fa-inr"
+    },
+    {
+        "value": "x-fa fa-instagram"
+    },
+    {
+        "value": "x-fa fa-institution"
+    },
+    {
+        "value": "x-fa fa-internet-explorer"
+    },
+    {
+        "value": "x-fa fa-intersex"
+    },
+    {
+        "value": "x-fa fa-ioxhost"
+    },
+    {
+        "value": "x-fa fa-italic"
+    },
+    {
+        "value": "x-fa fa-joomla"
+    },
+    {
+        "value": "x-fa fa-jpy"
+    },
+    {
+        "value": "x-fa fa-jsfiddle"
+    },
+    {
+        "value": "x-fa fa-key"
+    },
+    {
+        "value": "x-fa fa-keyboard-o"
+    },
+    {
+        "value": "x-fa fa-krw"
+    },
+    {
+        "value": "x-fa fa-language"
+    },
+    {
+        "value": "x-fa fa-laptop"
+    },
+    {
+        "value": "x-fa fa-lastfm"
+    },
+    {
+        "value": "x-fa fa-lastfm-square"
+    },
+    {
+        "value": "x-fa fa-leaf"
+    },
+    {
+        "value": "x-fa fa-leanpub"
+    },
+    {
+        "value": "x-fa fa-legal"
+    },
+    {
+        "value": "x-fa fa-lemon-o"
+    },
+    {
+        "value": "x-fa fa-level-down"
+    },
+    {
+        "value": "x-fa fa-level-up"
+    },
+    {
+        "value": "x-fa fa-life-bouy"
+    },
+    {
+        "value": "x-fa fa-life-buoy"
+    },
+    {
+        "value": "x-fa fa-life-ring"
+    },
+    {
+        "value": "x-fa fa-life-saver"
+    },
+    {
+        "value": "x-fa fa-lightbulb-o"
+    },
+    {
+        "value": "x-fa fa-line-chart"
+    },
+    {
+        "value": "x-fa fa-link"
+    },
+    {
+        "value": "x-fa fa-linkedin"
+    },
+    {
+        "value": "x-fa fa-linkedin-square"
+    },
+    {
+        "value": "x-fa fa-linode"
+    },
+    {
+        "value": "x-fa fa-linux"
+    },
+    {
+        "value": "x-fa fa-list"
+    },
+    {
+        "value": "x-fa fa-list-alt"
+    },
+    {
+        "value": "x-fa fa-list-ol"
+    },
+    {
+        "value": "x-fa fa-list-ul"
+    },
+    {
+        "value": "x-fa fa-location-arrow"
+    },
+    {
+        "value": "x-fa fa-lock"
+    },
+    {
+        "value": "x-fa fa-long-arrow-down"
+    },
+    {
+        "value": "x-fa fa-long-arrow-left"
+    },
+    {
+        "value": "x-fa fa-long-arrow-right"
+    },
+    {
+        "value": "x-fa fa-long-arrow-up"
+    },
+    {
+        "value": "x-fa fa-low-vision"
+    },
+    {
+        "value": "x-fa fa-magic"
+    },
+    {
+        "value": "x-fa fa-magnet"
+    },
+    {
+        "value": "x-fa fa-mail-forward"
+    },
+    {
+        "value": "x-fa fa-mail-reply"
+    },
+    {
+        "value": "x-fa fa-mail-reply-all"
+    },
+    {
+        "value": "x-fa fa-male"
+    },
+    {
+        "value": "x-fa fa-map"
+    },
+    {
+        "value": "x-fa fa-map-marker"
+    },
+    {
+        "value": "x-fa fa-map-o"
+    },
+    {
+        "value": "x-fa fa-map-pin"
+    },
+    {
+        "value": "x-fa fa-map-signs"
+    },
+    {
+        "value": "x-fa fa-mars"
+    },
+    {
+        "value": "x-fa fa-mars-double"
+    },
+    {
+        "value": "x-fa fa-mars-stroke"
+    },
+    {
+        "value": "x-fa fa-mars-stroke-h"
+    },
+    {
+        "value": "x-fa fa-mars-stroke-v"
+    },
+    {
+        "value": "x-fa fa-maxcdn"
+    },
+    {
+        "value": "x-fa fa-meanpath"
+    },
+    {
+        "value": "x-fa fa-medium"
+    },
+    {
+        "value": "x-fa fa-medkit"
+    },
+    {
+        "value": "x-fa fa-meetup"
+    },
+    {
+        "value": "x-fa fa-meh-o"
+    },
+    {
+        "value": "x-fa fa-mercury"
+    },
+    {
+        "value": "x-fa fa-microchip"
+    },
+    {
+        "value": "x-fa fa-microphone"
+    },
+    {
+        "value": "x-fa fa-microphone-slash"
+    },
+    {
+        "value": "x-fa fa-minus"
+    },
+    {
+        "value": "x-fa fa-minus-circle"
+    },
+    {
+        "value": "x-fa fa-minus-square"
+    },
+    {
+        "value": "x-fa fa-minus-square-o"
+    },
+    {
+        "value": "x-fa fa-mixcloud"
+    },
+    {
+        "value": "x-fa fa-mobile"
+    },
+    {
+        "value": "x-fa fa-mobile-phone"
+    },
+    {
+        "value": "x-fa fa-modx"
+    },
+    {
+        "value": "x-fa fa-money"
+    },
+    {
+        "value": "x-fa fa-moon-o"
+    },
+    {
+        "value": "x-fa fa-mortar-board"
+    },
+    {
+        "value": "x-fa fa-motorcycle"
+    },
+    {
+        "value": "x-fa fa-mouse-pointer"
+    },
+    {
+        "value": "x-fa fa-music"
+    },
+    {
+        "value": "x-fa fa-navicon"
+    },
+    {
+        "value": "x-fa fa-neuter"
+    },
+    {
+        "value": "x-fa fa-newspaper-o"
+    },
+    {
+        "value": "x-fa fa-object-group"
+    },
+    {
+        "value": "x-fa fa-object-ungroup"
+    },
+    {
+        "value": "x-fa fa-odnoklassniki"
+    },
+    {
+        "value": "x-fa fa-odnoklassniki-square"
+    },
+    {
+        "value": "x-fa fa-opencart"
+    },
+    {
+        "value": "x-fa fa-openid"
+    },
+    {
+        "value": "x-fa fa-opera"
+    },
+    {
+        "value": "x-fa fa-optin-monster"
+    },
+    {
+        "value": "x-fa fa-outdent"
+    },
+    {
+        "value": "x-fa fa-pagelines"
+    },
+    {
+        "value": "x-fa fa-paint-brush"
+    },
+    {
+        "value": "x-fa fa-paper-plane"
+    },
+    {
+        "value": "x-fa fa-paper-plane-o"
+    },
+    {
+        "value": "x-fa fa-paperclip"
+    },
+    {
+        "value": "x-fa fa-paragraph"
+    },
+    {
+        "value": "x-fa fa-paste"
+    },
+    {
+        "value": "x-fa fa-pause"
+    },
+    {
+        "value": "x-fa fa-pause-circle"
+    },
+    {
+        "value": "x-fa fa-pause-circle-o"
+    },
+    {
+        "value": "x-fa fa-paw"
+    },
+    {
+        "value": "x-fa fa-paypal"
+    },
+    {
+        "value": "x-fa fa-pencil"
+    },
+    {
+        "value": "x-fa fa-pencil-square"
+    },
+    {
+        "value": "x-fa fa-pencil-square-o"
+    },
+    {
+        "value": "x-fa fa-percent"
+    },
+    {
+        "value": "x-fa fa-phone"
+    },
+    {
+        "value": "x-fa fa-phone-square"
+    },
+    {
+        "value": "x-fa fa-photo"
+    },
+    {
+        "value": "x-fa fa-picture-o"
+    },
+    {
+        "value": "x-fa fa-pie-chart"
+    },
+    {
+        "value": "x-fa fa-pied-piper"
+    },
+    {
+        "value": "x-fa fa-pied-piper-alt"
+    },
+    {
+        "value": "x-fa fa-pied-piper-pp"
+    },
+    {
+        "value": "x-fa fa-pinterest"
+    },
+    {
+        "value": "x-fa fa-pinterest-p"
+    },
+    {
+        "value": "x-fa fa-pinterest-square"
+    },
+    {
+        "value": "x-fa fa-plane"
+    },
+    {
+        "value": "x-fa fa-play"
+    },
+    {
+        "value": "x-fa fa-play-circle"
+    },
+    {
+        "value": "x-fa fa-play-circle-o"
+    },
+    {
+        "value": "x-fa fa-plug"
+    },
+    {
+        "value": "x-fa fa-plus"
+    },
+    {
+        "value": "x-fa fa-plus-circle"
+    },
+    {
+        "value": "x-fa fa-plus-square"
+    },
+    {
+        "value": "x-fa fa-plus-square-o"
+    },
+    {
+        "value": "x-fa fa-podcast"
+    },
+    {
+        "value": "x-fa fa-power-off"
+    },
+    {
+        "value": "x-fa fa-print"
+    },
+    {
+        "value": "x-fa fa-product-hunt"
+    },
+    {
+        "value": "x-fa fa-puzzle-piece"
+    },
+    {
+        "value": "x-fa fa-qq"
+    },
+    {
+        "value": "x-fa fa-qrcode"
+    },
+    {
+        "value": "x-fa fa-question"
+    },
+    {
+        "value": "x-fa fa-question-circle"
+    },
+    {
+        "value": "x-fa fa-question-circle-o"
+    },
+    {
+        "value": "x-fa fa-quora"
+    },
+    {
+        "value": "x-fa fa-quote-left"
+    },
+    {
+        "value": "x-fa fa-quote-right"
+    },
+    {
+        "value": "x-fa fa-ra"
+    },
+    {
+        "value": "x-fa fa-random"
+    },
+    {
+        "value": "x-fa fa-ravelry"
+    },
+    {
+        "value": "x-fa fa-rebel"
+    },
+    {
+        "value": "x-fa fa-recycle"
+    },
+    {
+        "value": "x-fa fa-reddit"
+    },
+    {
+        "value": "x-fa fa-reddit-alien"
+    },
+    {
+        "value": "x-fa fa-reddit-square"
+    },
+    {
+        "value": "x-fa fa-refresh"
+    },
+    {
+        "value": "x-fa fa-registered"
+    },
+    {
+        "value": "x-fa fa-remove"
+    },
+    {
+        "value": "x-fa fa-renren"
+    },
+    {
+        "value": "x-fa fa-reorder"
+    },
+    {
+        "value": "x-fa fa-repeat"
+    },
+    {
+        "value": "x-fa fa-reply"
+    },
+    {
+        "value": "x-fa fa-reply-all"
+    },
+    {
+        "value": "x-fa fa-resistance"
+    },
+    {
+        "value": "x-fa fa-retweet"
+    },
+    {
+        "value": "x-fa fa-rmb"
+    },
+    {
+        "value": "x-fa fa-road"
+    },
+    {
+        "value": "x-fa fa-rocket"
+    },
+    {
+        "value": "x-fa fa-rotate-left"
+    },
+    {
+        "value": "x-fa fa-rotate-right"
+    },
+    {
+        "value": "x-fa fa-rouble"
+    },
+    {
+        "value": "x-fa fa-rss"
+    },
+    {
+        "value": "x-fa fa-rss-square"
+    },
+    {
+        "value": "x-fa fa-rub"
+    },
+    {
+        "value": "x-fa fa-ruble"
+    },
+    {
+        "value": "x-fa fa-rupee"
+    },
+    {
+        "value": "x-fa fa-s15"
+    },
+    {
+        "value": "x-fa fa-safari"
+    },
+    {
+        "value": "x-fa fa-save"
+    },
+    {
+        "value": "x-fa fa-scissors"
+    },
+    {
+        "value": "x-fa fa-scribd"
+    },
+    {
+        "value": "x-fa fa-search"
+    },
+    {
+        "value": "x-fa fa-search-minus"
+    },
+    {
+        "value": "x-fa fa-search-plus"
+    },
+    {
+        "value": "x-fa fa-sellsy"
+    },
+    {
+        "value": "x-fa fa-send"
+    },
+    {
+        "value": "x-fa fa-send-o"
+    },
+    {
+        "value": "x-fa fa-server"
+    },
+    {
+        "value": "x-fa fa-share"
+    },
+    {
+        "value": "x-fa fa-share-alt"
+    },
+    {
+        "value": "x-fa fa-share-alt-square"
+    },
+    {
+        "value": "x-fa fa-share-square"
+    },
+    {
+        "value": "x-fa fa-share-square-o"
+    },
+    {
+        "value": "x-fa fa-shekel"
+    },
+    {
+        "value": "x-fa fa-sheqel"
+    },
+    {
+        "value": "x-fa fa-shield"
+    },
+    {
+        "value": "x-fa fa-ship"
+    },
+    {
+        "value": "x-fa fa-shirtsinbulk"
+    },
+    {
+        "value": "x-fa fa-shopping-bag"
+    },
+    {
+        "value": "x-fa fa-shopping-basket"
+    },
+    {
+        "value": "x-fa fa-shopping-cart"
+    },
+    {
+        "value": "x-fa fa-shower"
+    },
+    {
+        "value": "x-fa fa-sign-in"
+    },
+    {
+        "value": "x-fa fa-sign-language"
+    },
+    {
+        "value": "x-fa fa-sign-out"
+    },
+    {
+        "value": "x-fa fa-signal"
+    },
+    {
+        "value": "x-fa fa-signing"
+    },
+    {
+        "value": "x-fa fa-simplybuilt"
+    },
+    {
+        "value": "x-fa fa-sitemap"
+    },
+    {
+        "value": "x-fa fa-skyatlas"
+    },
+    {
+        "value": "x-fa fa-skype"
+    },
+    {
+        "value": "x-fa fa-slack"
+    },
+    {
+        "value": "x-fa fa-sliders"
+    },
+    {
+        "value": "x-fa fa-slideshare"
+    },
+    {
+        "value": "x-fa fa-smile-o"
+    },
+    {
+        "value": "x-fa fa-snapchat"
+    },
+    {
+        "value": "x-fa fa-snapchat-ghost"
+    },
+    {
+        "value": "x-fa fa-snapchat-square"
+    },
+    {
+        "value": "x-fa fa-snowflake-o"
+    },
+    {
+        "value": "x-fa fa-soccer-ball-o"
+    },
+    {
+        "value": "x-fa fa-sort"
+    },
+    {
+        "value": "x-fa fa-sort-alpha-asc"
+    },
+    {
+        "value": "x-fa fa-sort-alpha-desc"
+    },
+    {
+        "value": "x-fa fa-sort-amount-asc"
+    },
+    {
+        "value": "x-fa fa-sort-amount-desc"
+    },
+    {
+        "value": "x-fa fa-sort-asc"
+    },
+    {
+        "value": "x-fa fa-sort-desc"
+    },
+    {
+        "value": "x-fa fa-sort-down"
+    },
+    {
+        "value": "x-fa fa-sort-numeric-asc"
+    },
+    {
+        "value": "x-fa fa-sort-numeric-desc"
+    },
+    {
+        "value": "x-fa fa-sort-up"
+    },
+    {
+        "value": "x-fa fa-soundcloud"
+    },
+    {
+        "value": "x-fa fa-space-shuttle"
+    },
+    {
+        "value": "x-fa fa-spinner"
+    },
+    {
+        "value": "x-fa fa-spoon"
+    },
+    {
+        "value": "x-fa fa-spotify"
+    },
+    {
+        "value": "x-fa fa-square"
+    },
+    {
+        "value": "x-fa fa-square-o"
+    },
+    {
+        "value": "x-fa fa-stack-exchange"
+    },
+    {
+        "value": "x-fa fa-stack-overflow"
+    },
+    {
+        "value": "x-fa fa-star"
+    },
+    {
+        "value": "x-fa fa-star-half"
+    },
+    {
+        "value": "x-fa fa-star-half-empty"
+    },
+    {
+        "value": "x-fa fa-star-half-full"
+    },
+    {
+        "value": "x-fa fa-star-half-o"
+    },
+    {
+        "value": "x-fa fa-star-o"
+    },
+    {
+        "value": "x-fa fa-steam"
+    },
+    {
+        "value": "x-fa fa-steam-square"
+    },
+    {
+        "value": "x-fa fa-step-backward"
+    },
+    {
+        "value": "x-fa fa-step-forward"
+    },
+    {
+        "value": "x-fa fa-stethoscope"
+    },
+    {
+        "value": "x-fa fa-sticky-note"
+    },
+    {
+        "value": "x-fa fa-sticky-note-o"
+    },
+    {
+        "value": "x-fa fa-stop"
+    },
+    {
+        "value": "x-fa fa-stop-circle"
+    },
+    {
+        "value": "x-fa fa-stop-circle-o"
+    },
+    {
+        "value": "x-fa fa-street-view"
+    },
+    {
+        "value": "x-fa fa-strikethrough"
+    },
+    {
+        "value": "x-fa fa-stumbleupon"
+    },
+    {
+        "value": "x-fa fa-stumbleupon-circle"
+    },
+    {
+        "value": "x-fa fa-subscript"
+    },
+    {
+        "value": "x-fa fa-subway"
+    },
+    {
+        "value": "x-fa fa-suitcase"
+    },
+    {
+        "value": "x-fa fa-sun-o"
+    },
+    {
+        "value": "x-fa fa-superpowers"
+    },
+    {
+        "value": "x-fa fa-superscript"
+    },
+    {
+        "value": "x-fa fa-support"
+    },
+    {
+        "value": "x-fa fa-table"
+    },
+    {
+        "value": "x-fa fa-tablet"
+    },
+    {
+        "value": "x-fa fa-tachometer"
+    },
+    {
+        "value": "x-fa fa-tag"
+    },
+    {
+        "value": "x-fa fa-tags"
+    },
+    {
+        "value": "x-fa fa-tasks"
+    },
+    {
+        "value": "x-fa fa-taxi"
+    },
+    {
+        "value": "x-fa fa-telegram"
+    },
+    {
+        "value": "x-fa fa-television"
+    },
+    {
+        "value": "x-fa fa-tencent-weibo"
+    },
+    {
+        "value": "x-fa fa-terminal"
+    },
+    {
+        "value": "x-fa fa-text-height"
+    },
+    {
+        "value": "x-fa fa-text-width"
+    },
+    {
+        "value": "x-fa fa-th"
+    },
+    {
+        "value": "x-fa fa-th-large"
+    },
+    {
+        "value": "x-fa fa-th-list"
+    },
+    {
+        "value": "x-fa fa-themeisle"
+    },
+    {
+        "value": "x-fa fa-thermometer"
+    },
+    {
+        "value": "x-fa fa-thermometer-0"
+    },
+    {
+        "value": "x-fa fa-thermometer-1"
+    },
+    {
+        "value": "x-fa fa-thermometer-2"
+    },
+    {
+        "value": "x-fa fa-thermometer-3"
+    },
+    {
+        "value": "x-fa fa-thermometer-4"
+    },
+    {
+        "value": "x-fa fa-thermometer-empty"
+    },
+    {
+        "value": "x-fa fa-thermometer-full"
+    },
+    {
+        "value": "x-fa fa-thermometer-half"
+    },
+    {
+        "value": "x-fa fa-thermometer-quarter"
+    },
+    {
+        "value": "x-fa fa-thermometer-three-quarters"
+    },
+    {
+        "value": "x-fa fa-thumb-tack"
+    },
+    {
+        "value": "x-fa fa-thumbs-down"
+    },
+    {
+        "value": "x-fa fa-thumbs-o-down"
+    },
+    {
+        "value": "x-fa fa-thumbs-o-up"
+    },
+    {
+        "value": "x-fa fa-thumbs-up"
+    },
+    {
+        "value": "x-fa fa-ticket"
+    },
+    {
+        "value": "x-fa fa-times"
+    },
+    {
+        "value": "x-fa fa-times-circle"
+    },
+    {
+        "value": "x-fa fa-times-circle-o"
+    },
+    {
+        "value": "x-fa fa-times-rectangle"
+    },
+    {
+        "value": "x-fa fa-times-rectangle-o"
+    },
+    {
+        "value": "x-fa fa-tint"
+    },
+    {
+        "value": "x-fa fa-toggle-down"
+    },
+    {
+        "value": "x-fa fa-toggle-left"
+    },
+    {
+        "value": "x-fa fa-toggle-off"
+    },
+    {
+        "value": "x-fa fa-toggle-on"
+    },
+    {
+        "value": "x-fa fa-toggle-right"
+    },
+    {
+        "value": "x-fa fa-toggle-up"
+    },
+    {
+        "value": "x-fa fa-trademark"
+    },
+    {
+        "value": "x-fa fa-train"
+    },
+    {
+        "value": "x-fa fa-transgender"
+    },
+    {
+        "value": "x-fa fa-transgender-alt"
+    },
+    {
+        "value": "x-fa fa-trash"
+    },
+    {
+        "value": "x-fa fa-trash-o"
+    },
+    {
+        "value": "x-fa fa-tree"
+    },
+    {
+        "value": "x-fa fa-trello"
+    },
+    {
+        "value": "x-fa fa-tripadvisor"
+    },
+    {
+        "value": "x-fa fa-trophy"
+    },
+    {
+        "value": "x-fa fa-truck"
+    },
+    {
+        "value": "x-fa fa-try"
+    },
+    {
+        "value": "x-fa fa-tty"
+    },
+    {
+        "value": "x-fa fa-tumblr"
+    },
+    {
+        "value": "x-fa fa-tumblr-square"
+    },
+    {
+        "value": "x-fa fa-turkish-lira"
+    },
+    {
+        "value": "x-fa fa-tv"
+    },
+    {
+        "value": "x-fa fa-twitch"
+    },
+    {
+        "value": "x-fa fa-twitter"
+    },
+    {
+        "value": "x-fa fa-twitter-square"
+    },
+    {
+        "value": "x-fa fa-umbrella"
+    },
+    {
+        "value": "x-fa fa-underline"
+    },
+    {
+        "value": "x-fa fa-undo"
+    },
+    {
+        "value": "x-fa fa-universal-access"
+    },
+    {
+        "value": "x-fa fa-university"
+    },
+    {
+        "value": "x-fa fa-unlink"
+    },
+    {
+        "value": "x-fa fa-unlock"
+    },
+    {
+        "value": "x-fa fa-unlock-alt"
+    },
+    {
+        "value": "x-fa fa-unsorted"
+    },
+    {
+        "value": "x-fa fa-upload"
+    },
+    {
+        "value": "x-fa fa-usb"
+    },
+    {
+        "value": "x-fa fa-usd"
+    },
+    {
+        "value": "x-fa fa-user"
+    },
+    {
+        "value": "x-fa fa-user-circle"
+    },
+    {
+        "value": "x-fa fa-user-circle-o"
+    },
+    {
+        "value": "x-fa fa-user-md"
+    },
+    {
+        "value": "x-fa fa-user-o"
+    },
+    {
+        "value": "x-fa fa-user-plus"
+    },
+    {
+        "value": "x-fa fa-user-secret"
+    },
+    {
+        "value": "x-fa fa-user-times"
+    },
+    {
+        "value": "x-fa fa-users"
+    },
+    {
+        "value": "x-fa fa-vcard"
+    },
+    {
+        "value": "x-fa fa-vcard-o"
+    },
+    {
+        "value": "x-fa fa-venus"
+    },
+    {
+        "value": "x-fa fa-venus-double"
+    },
+    {
+        "value": "x-fa fa-venus-mars"
+    },
+    {
+        "value": "x-fa fa-viacoin"
+    },
+    {
+        "value": "x-fa fa-viadeo"
+    },
+    {
+        "value": "x-fa fa-viadeo-square"
+    },
+    {
+        "value": "x-fa fa-video-camera"
+    },
+    {
+        "value": "x-fa fa-vimeo"
+    },
+    {
+        "value": "x-fa fa-vimeo-square"
+    },
+    {
+        "value": "x-fa fa-vine"
+    },
+    {
+        "value": "x-fa fa-vk"
+    },
+    {
+        "value": "x-fa fa-volume-control-phone"
+    },
+    {
+        "value": "x-fa fa-volume-down"
+    },
+    {
+        "value": "x-fa fa-volume-off"
+    },
+    {
+        "value": "x-fa fa-volume-up"
+    },
+    {
+        "value": "x-fa fa-warning"
+    },
+    {
+        "value": "x-fa fa-wechat"
+    },
+    {
+        "value": "x-fa fa-weibo"
+    },
+    {
+        "value": "x-fa fa-weixin"
+    },
+    {
+        "value": "x-fa fa-whatsapp"
+    },
+    {
+        "value": "x-fa fa-wheelchair"
+    },
+    {
+        "value": "x-fa fa-wheelchair-alt"
+    },
+    {
+        "value": "x-fa fa-wifi"
+    },
+    {
+        "value": "x-fa fa-wikipedia-w"
+    },
+    {
+        "value": "x-fa fa-window-close"
+    },
+    {
+        "value": "x-fa fa-window-close-o"
+    },
+    {
+        "value": "x-fa fa-window-maximize"
+    },
+    {
+        "value": "x-fa fa-window-minimize"
+    },
+    {
+        "value": "x-fa fa-window-restore"
+    },
+    {
+        "value": "x-fa fa-windows"
+    },
+    {
+        "value": "x-fa fa-won"
+    },
+    {
+        "value": "x-fa fa-wordpress"
+    },
+    {
+        "value": "x-fa fa-wpbeginner"
+    },
+    {
+        "value": "x-fa fa-wpexplorer"
+    },
+    {
+        "value": "x-fa fa-wpforms"
+    },
+    {
+        "value": "x-fa fa-wrench"
+    },
+    {
+        "value": "x-fa fa-xing"
+    },
+    {
+        "value": "x-fa fa-xing-square"
+    },
+    {
+        "value": "x-fa fa-y-combinator"
+    },
+    {
+        "value": "x-fa fa-y-combinator-square"
+    },
+    {
+        "value": "x-fa fa-yahoo"
+    },
+    {
+        "value": "x-fa fa-yc"
+    },
+    {
+        "value": "x-fa fa-yc-square"
+    },
+    {
+        "value": "x-fa fa-yelp"
+    },
+    {
+        "value": "x-fa fa-yen"
+    },
+    {
+        "value": "x-fa fa-yoast"
+    },
+    {
+        "value": "x-fa fa-youtube"
+    },
+    {
+        "value": "x-fa fa-youtube-play"
+    },
+    {
+        "value": "x-fa fa-youtube-square"
+    }
+]

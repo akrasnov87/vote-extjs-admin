@@ -1,0 +1,17 @@
+[
+    {
+        "xtype": "actionitem",
+        "text": "Настройки",
+        "action": "settings",
+        "menu": [
+            {
+                "xtype": "actionitem",
+                "text": "Визуализация",
+                "action": "settings-visual"
+            }
+        ]
+    },
+    {
+        "xtype": "exititem"
+    }
+]
