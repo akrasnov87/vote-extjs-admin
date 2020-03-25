@@ -69,12 +69,12 @@ Ext.define('Core.view.cs_question.cs_answer___cs_question-collection', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25
                 },
-                displayField: 'id',
+                displayField: 'c_title',
                 valueField: 'id',
                 filter: {
                     type: 'string'
@@ -96,12 +96,12 @@ Ext.define('Core.view.cs_question.cs_answer___cs_question-collection', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25
                 },
-                displayField: 'id',
+                displayField: 'c_title',
                 valueField: 'id',
                 filter: {
                     type: 'string'

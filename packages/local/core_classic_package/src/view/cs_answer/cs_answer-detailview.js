@@ -77,7 +77,7 @@ Ext.define('Core.view.cs_answer.cs_answer-detailview', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25
@@ -93,7 +93,7 @@ Ext.define('Core.view.cs_answer.cs_answer-detailview', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25

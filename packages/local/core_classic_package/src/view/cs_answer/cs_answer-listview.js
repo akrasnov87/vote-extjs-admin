@@ -64,12 +64,12 @@ Ext.define('Core.view.cs_answer.cs_answer-listview', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25
                 },
-                displayField: 'id',
+                displayField: 'c_title',
                 valueField: 'id',
                 filter: {
                     type: 'string'
@@ -91,12 +91,12 @@ Ext.define('Core.view.cs_answer.cs_answer-listview', {
                     store: {
                         type: 'cs_question'
                     },
-                    displayField: 'id',
+                    displayField: 'c_title',
                     valueField: 'id',
                     queryMode: 'remote',
                     pageSize: 25
                 },
-                displayField: 'id',
+                displayField: 'c_title',
                 valueField: 'id',
                 filter: {
                     type: 'string'
